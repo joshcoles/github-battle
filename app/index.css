@@ -90,7 +90,7 @@ a {
   text-align: center;
   display: block;
   padding: 7px 0;
-  margin: 10px 0;
+  margin: 10px auto;
 }
 
 .button:hover:enabled {
